@@ -3,9 +3,10 @@ import PageLayout from '../components/pageLayout';
 
 const ContactPage = () => {
     return (
-        <PageLayout>
+        <PageLayout pageTitle="Contact">
             <div>Contact page is under construction</div>
-        </PageLayout>)
+        </PageLayout >
+    )
 }
 
 export default ContactPage;

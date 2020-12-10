@@ -1,11 +1,11 @@
 import React from 'react'
 import PageLayout from '../components/pageLayout';
 
-const ContactPage = () => {
+const AboutPage = () => {
     return (
-        <PageLayout>
+        <PageLayout pageTitle="About">
             <div>About page is under construction</div>
-        </PageLayout>)
+        </PageLayout >)
 }
 
-export default ContactPage;
+export default AboutPage;

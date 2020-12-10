@@ -10,7 +10,7 @@ const Layout = (props) => {
         <div className={layoutStyles.container}>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>Home</title>
+                <title>{props.pageTitle}</title>
                 <link rel="canonical" href="http://ngkevin.com" />
             </Helmet>
             <div className={layoutStyles.content}>
