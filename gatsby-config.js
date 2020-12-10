@@ -13,5 +13,8 @@ module.exports = {
         implementation: require('sass')
       },
     },
+    {
+      resolve: 'gatsby-plugin-react-helmet',
+    }
   ],
 }
