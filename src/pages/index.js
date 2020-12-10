@@ -5,8 +5,8 @@ import '../styles/reset.scss'
 const IndexPage = () => {
   return (
     <PageLayout>
-      <h1>Hello.</h1>
-      <h2>I'm Kevin, a full-stack web applications developer from Vancouver, BC.</h2>
+      <h2>Hello.</h2>
+      <h3>I'm Kevin, a full-stack web applications developer in Vancouver, BC.</h3>
     </PageLayout>
   )
 }
