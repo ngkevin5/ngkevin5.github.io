@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),u=t.n(a),i=t("0qiq");n.default=function(){return u.a.createElement(i.a,{pageTitle:"About"},u.a.createElement("div",null,"About page is under construction"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-9d0a9e1620df38c45b81.js.map

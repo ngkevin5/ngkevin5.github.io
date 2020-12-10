@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"9frD":function(e,n,a){},RXBc:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),c=a("0qiq");a("9frD");n.default=function(){return l.a.createElement(c.a,{pageTitle:"Home"},l.a.createElement("h2",null,"Hello."),l.a.createElement("h3",null,"I'm Kevin, a full-stack web applications developer in Vancouver, BC."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-862d403884eab12150e8.js.map
