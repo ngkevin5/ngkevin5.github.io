@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"Cuy+":function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),u=t.n(a),c=t("0qiq");e.default=function(){return u.a.createElement(c.a,null,u.a.createElement("div",null,"Contact page is under construction"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-1e27040f2a9c3a66f898.js.map
