@@ -5,7 +5,6 @@ import '../styles/reset.scss'
 const IndexPage = () => {
   return (
     <PageLayout pageTitle="Home">
-      Nothing to see yet.
     </PageLayout>
   )
 }
